@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nibak
-- 👀 I’m interested in .NET development
+- 👀 I’m interested in .js development
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on Payroll Systm with .NET
 - 📫 How to reach me kabintamang753@gmail.com
 
 <!---
