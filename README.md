@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nibak
 - 👀 I’m interested in .js development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning React
 - 📫 How to reach me kabintamang753@gmail.com
 
 <!---
