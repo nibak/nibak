@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nibak
-- 👀 I’m interested in .js development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in .dart development
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me kabintamang753@gmail.com
 
 <!---
